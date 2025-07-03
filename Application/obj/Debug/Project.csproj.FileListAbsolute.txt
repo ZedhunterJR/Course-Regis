@@ -1,0 +1,43 @@
+C:\Users\Acer\Desktop\java crap\c#\Project\bin\Debug\Project.exe.config
+C:\Users\Acer\Desktop\java crap\c#\Project\bin\Debug\Project.exe
+C:\Users\Acer\Desktop\java crap\c#\Project\bin\Debug\Project.pdb
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.Form1.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.exe
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.pdb
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.Main.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.PanelUserSetting.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.PanelUserProfile.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.Login.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.BrowsePanel.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.CourseObj.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.PanelCourseInfo.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.UserObj.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.ManaUser.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.ManaCourse.resources
+C:\Users\Acer\Desktop\java crap\c#\Project\obj\Debug\Project.HomePage.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.exe
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.pdb
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\bin\Debug\Project.exe.config
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\bin\Debug\Project.exe
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\bin\Debug\Project.pdb
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.BrowsePanel.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.CourseObj.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.Form1.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.HomePage.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.Login.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.Main.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.ManaCourse.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.ManaUser.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.PanelCourseInfo.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.PanelUserProfile.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.PanelUserSetting.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.UserObj.resources
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Application\obj\Debug\Project.csproj.CoreCompileInputs.cache

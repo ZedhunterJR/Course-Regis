@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|c:\\users\\acer\\desktop\\java crap\\c#\\course regis\\application\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\paneluserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:paneluserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\paneluserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:paneluserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\panelcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:panelcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\panelcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:panelcourseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\manauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:manauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\manacourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:manacourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\dboaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:dboaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|c:\\users\\acer\\desktop\\java crap\\c#\\course regis\\application\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\manacourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:manacourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\browsepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:browsepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\courseobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:courseobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\browsepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:browsepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\userobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:userobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\userobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:userobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\paneluserprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A9799F-044B-4682-9267-51D03EA54CDD}|Project.csproj|solutionrelative:paneluserprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:01:12.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManaCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\ManaCourse.cs",
+              "RelativeDocumentMoniker": "ManaCourse.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\ManaCourse.cs [Design]",
+              "RelativeToolTip": "ManaCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:33.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PanelCourseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelCourseInfo.cs",
+              "RelativeDocumentMoniker": "PanelCourseInfo.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelCourseInfo.cs [Design]",
+              "RelativeToolTip": "PanelCourseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:33.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:33.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwFMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:33.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Main.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Main.Designer.cs",
+              "RelativeToolTip": "Main.Designer.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAowMoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBOAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\DBOAccess.cs",
+              "RelativeDocumentMoniker": "DBOAccess.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\DBOAccess.cs",
+              "RelativeToolTip": "DBOAccess.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwH4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManaUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\ManaUser.cs",
+              "RelativeDocumentMoniker": "ManaUser.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\ManaUser.cs [Design]",
+              "RelativeToolTip": "ManaUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\java crap\\c#\\Project\\HomePage.cs [Design]",
+              "RelativeToolTip": "..\\..\\Project\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-07-02T12:34:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManaCourse.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\ManaCourse.cs",
+              "RelativeDocumentMoniker": "ManaCourse.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\ManaCourse.cs",
+              "RelativeToolTip": "ManaCourse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PanelUserProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelUserProfile.cs",
+              "RelativeDocumentMoniker": "PanelUserProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelUserProfile.cs [Design]",
+              "RelativeToolTip": "PanelUserProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PanelCourseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelCourseInfo.cs",
+              "RelativeDocumentMoniker": "PanelCourseInfo.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelCourseInfo.cs",
+              "RelativeToolTip": "PanelCourseInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseObj.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\CourseObj.cs",
+              "RelativeDocumentMoniker": "CourseObj.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\CourseObj.cs",
+              "RelativeToolTip": "CourseObj.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-07-02T12:34:34.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BrowsePanel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\BrowsePanel.cs",
+              "RelativeDocumentMoniker": "BrowsePanel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\BrowsePanel.cs",
+              "RelativeToolTip": "BrowsePanel.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAWwE8AAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-07-02T12:34:34.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Extension.cs",
+              "RelativeDocumentMoniker": "Extension.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\Extension.cs",
+              "RelativeToolTip": "Extension.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PanelUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelUserProfile.cs",
+              "RelativeDocumentMoniker": "PanelUserProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelUserProfile.cs",
+              "RelativeToolTip": "PanelUserProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrowsePanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\BrowsePanel.cs",
+              "RelativeDocumentMoniker": "BrowsePanel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\java crap\\c#\\Project\\BrowsePanel.cs [Design]",
+              "RelativeToolTip": "..\\..\\Project\\BrowsePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-07-02T12:34:34.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserObj.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\UserObj.cs",
+              "RelativeDocumentMoniker": "UserObj.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\java crap\\c#\\Project\\UserObj.cs [Design]",
+              "RelativeToolTip": "..\\..\\Project\\UserObj.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-07-02T12:34:34.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserObj.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\UserObj.cs",
+              "RelativeDocumentMoniker": "UserObj.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\UserObj.cs",
+              "RelativeToolTip": "UserObj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-07-02T12:34:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PanelUserProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelUserProfile.Designer.cs",
+              "RelativeDocumentMoniker": "PanelUserProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Application\\PanelUserProfile.Designer.cs",
+              "RelativeToolTip": "PanelUserProfile.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:34:34.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

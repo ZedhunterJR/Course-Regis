@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Course regis backend||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\Course regis backend.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|095629fd-033b-4016-b7f4-86e02165f0bb",
+      "RelativeMoniker": "D:0:0:{ECA034B5-FA1D-4660-9EE4-B7D67CC579B6}|Course regis backend.sqlproj|solutionrelative:Course regis backend.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|095629fd-033b-4016-b7f4-86e02165f0bb"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\SQLQuery1.sql\r\n(localdb)\\MSSQLLocalDB.CourseRegis\r\n(DESKTOP-PASKBT6\\ACER (53))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-03T07:30:31.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course regis backend",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\Course regis backend.sqlproj",
+              "RelativeDocumentMoniker": "Course regis backend.sqlproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\java crap\\c#\\Course regis\\Course regis backend\\Course regis backend.sqlproj",
+              "RelativeToolTip": "Course regis backend.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T07:13:53.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

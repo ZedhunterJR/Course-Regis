@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\bin\Debug\Course regis backend.dacpac
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\obj\Debug\Course regis backend.sqlproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\obj\Debug\Course_regis_backend.dll
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\obj\Debug\Course_regis_backend.pdb
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\bin\Debug\Course_regis_backend.dll
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\bin\Debug\Course_regis_backend.pdb
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\obj\Debug\Model.xml
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\obj\Debug\refactor.xml
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\obj\Debug\postdeploy.sql
+C:\Users\ACER\Desktop\java crap\c#\Course regis\Course regis backend\obj\Debug\predeploy.sql

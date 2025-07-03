@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43A9799F-044B-4682-9267-51D03EA54CDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BrowsePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BrowsePanel.Designer.cs">
+      <DependentUpon>BrowsePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course.cs" />
+    <Compile Include="CourseObj.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CourseObj.Designer.cs">
+      <DependentUpon>CourseObj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBOAccess.cs" />
+    <Compile Include="Extension.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManaCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManaCourse.Designer.cs">
+      <DependentUpon>ManaCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManaUser.Designer.cs">
+      <DependentUpon>ManaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelCourseInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelCourseInfo.Designer.cs">
+      <DependentUpon>PanelCourseInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelUserProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelUserProfile.Designer.cs">
+      <DependentUpon>PanelUserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelUserSetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelUserSetting.Designer.cs">
+      <DependentUpon>PanelUserSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserObj.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserObj.Designer.cs">
+      <DependentUpon>UserObj.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BrowsePanel.resx">
+      <DependentUpon>BrowsePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseObj.resx">
+      <DependentUpon>CourseObj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManaCourse.resx">
+      <DependentUpon>ManaCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManaUser.resx">
+      <DependentUpon>ManaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelCourseInfo.resx">
+      <DependentUpon>PanelCourseInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelUserProfile.resx">
+      <DependentUpon>PanelUserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelUserSetting.resx">
+      <DependentUpon>PanelUserSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserObj.resx">
+      <DependentUpon>UserObj.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\search_icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
