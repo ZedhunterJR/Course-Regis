@@ -6,29 +6,48 @@ A desktop + web application built with **Windows Forms**, **SQL Server**, and a 
 
 ## 🖼️ Screenshots
 
-### 🏠 Main Page
-<img src="Sc/main.png" width="600"/>
-
-### 🔍 Search Student
-<img src="Sc/name_search.png" width="600"/>
-
-### 🔎 Search with No Filter
-<img src="Sc/no_filter.png" width="600"/>
-
-### 📘 Course Info – Admin View
-<img src="Sc/course_info_admin_view.png" width="600"/>
-
-### 📗 Course Info – Student View
-<img src="Sc/course_info_student_view.png" width="600"/>
-
-### 🛠️ Manage Courses
-<img src="Sc/mana_course.png" width="600"/>
-
-### 👤 Manage Users
-<img src="Sc/mana_user" width="600"/>
-
-### 📄 User Info
-<img src="Sc/user_info.png" width="600"/>
+<table>
+  <tr>
+    <td align="center">
+      🏠 <b>Main Page</b><br>
+      <img src="Sc/main.png" width="400"/>
+    </td>
+    <td align="center">
+      🔍 <b>Search Student</b><br>
+      <img src="Sc/name_search.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🔎 <b>Search with No Filter</b><br>
+      <img src="Sc/no_filter.png" width="400"/>
+    </td>
+    <td align="center">
+      📘 <b>Course Info – Admin View</b><br>
+      <img src="Sc/course_info_admin_view.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      📗 <b>Course Info – Student View</b><br>
+      <img src="Sc/course_info_student_view.png" width="400"/>
+    </td>
+    <td align="center">
+      🛠️ <b>Manage Courses</b><br>
+      <img src="Sc/mana_course.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      👤 <b>Manage Users</b><br>
+      <img src="Sc/mana_user.png" width="400"/>
+    </td>
+    <td align="center">
+      📄 <b>User Info</b><br>
+      <img src="Sc/user_info.png" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
