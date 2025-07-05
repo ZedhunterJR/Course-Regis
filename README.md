@@ -7,28 +7,28 @@ A desktop + web application built with **Windows Forms**, **SQL Server**, and a 
 ## 🖼️ Screenshots
 
 ### 🏠 Main Page
-![Main Page](Sc/main.png)
+<img src="Sc/main.png" width="600"/>
 
 ### 🔍 Search Student
-![Search Student](Sc/name_search.png)
+<img src="Sc/name_search.png" width="600"/>
 
 ### 🔎 Search with No Filter
-![Search No Filter](Sc/no_filter.png)
+<img src="Sc/no_filter.png" width="600"/>
 
 ### 📘 Course Info – Admin View
-![Course Info Admin](Sc/course_info_admin_view.png)
+<img src="Sc/course_info_admin_view.png" width="600"/>
 
 ### 📗 Course Info – Student View
-![Course Info Student](Sc/course_info_student_view.png)
+<img src="Sc/course_info_student_view.png" width="600"/>
 
 ### 🛠️ Manage Courses
-![Manage Course](Sc/mana_course.png)
+<img src="Sc/mana_course.png" width="600"/>
 
 ### 👤 Manage Users
-![Manage Users](Sc/mana_user)
+<img src="Sc/mana_user" width="600"/>
 
 ### 📄 User Info
-![User Info](Sc/user_info.png)
+<img src="Sc/user_info.png" width="600"/>
 
 ---
 
@@ -49,6 +49,5 @@ A desktop + web application built with **Windows Forms**, **SQL Server**, and a 
 - 🧩 Entity Framework
 
 ---
-
 
 > *Images shown above are from an in-development project. Data shown is for demonstration purposes only.*
